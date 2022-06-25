@@ -33,3 +33,10 @@ make
 bin/example_demolib.x
 ```
 This will execute the program and evaluate the quantities that have been calculated to compare them to their theoretical values.
+
+
+## Exercise for the reader 
+
+Promote the calculation to the Standard Model, at least for the `MARTY` program, this should not be too difficult ;)
+
+
