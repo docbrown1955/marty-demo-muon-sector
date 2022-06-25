@@ -10,6 +10,8 @@ The example presents the complete calculation, including the model building, of:
  - The muon self-energy (divergent contribution to an off-shell one-loop amplitude)
  - The muon anomalous magnetic moment `(g-2)µ` at the one-loop level
 
+The example goes on purpose in some unnecessary details to show in a pedagogical way the different possibilities one has to analyse and manipulate symbolic results without only generating a numerical library for evaluation.
+
 ## Execute the MARTY program
 
 Just type
