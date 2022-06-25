@@ -2,7 +2,7 @@
 
 Muon sector example (self-energy + anomalous magnetic moment) using `MARTY` in a simple `QED` model.
 
-To download and install `MARTY` follow the instructions [here](https://github.com/docbrown1955/marty-public).
+To download and install `MARTY` follow the instructions [here](https://github.com/docbrown1955/marty-public). The version should be greater than or equal to `MARTY-1.4`.
 
 ## Summary
 
