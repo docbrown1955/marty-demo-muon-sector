@@ -19,7 +19,7 @@ Just type
   make
   ./main
 ```
-In case the compilation does not work, just change the compiler in the `Makefile` to set it to your `C++` compiler.
+In case the compilation does not work, just change the compiler in the `Makefile` to set it to your `C++` compiler (should be compatible with the `C++17` standard, the compiler used to build `MARTY` during the installation is fine).
 
 The model will be displayed and several results of calculations. The program will ask for input step-by-step just to pause the program, and `GRAFED` will be launched displaying the relevant Feynman diagrams for the unique vertex in the theory and the two calculations (self-energy and magnetic moment).
 
