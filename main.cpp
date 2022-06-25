@@ -12,7 +12,7 @@ int main()
     /////////////////////////////////////////////
     /////////////////////////////////////////////
 
-    // Initialiwe the gauge group
+    // Initialize the gauge group
     Model model;
     model.addGaugedGroup(group::Type::U1, "em", constant_s("e"));
     model.init();
